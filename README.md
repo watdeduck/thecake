@@ -1,2 +1,3 @@
 # thecake
-the cake to learn git
+cake to learn git
+alam ketawanya brengsek
